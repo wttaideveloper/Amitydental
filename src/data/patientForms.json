@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "documentId": "forms-1",
+  "title": "Patient Forms",
+  "subtitle": "CAN BE DOWNLOADED DIRECTLY FROM OUR SITE",
+  "notice": "Attention: Please be sure to print your forms and bring them with you to our office",
+  "downloads": [
+    {
+      "id": "adult-en",
+      "label": "Adult Form",
+      "language": "English",
+      "href": "/files/placeholder-adult-en.pdf",
+      "variant": "green"
+    },
+    {
+      "id": "child-en",
+      "label": "Child Form",
+      "language": "English",
+      "href": "/files/placeholder-child-en.pdf",
+      "variant": "green"
+    },
+    {
+      "id": "adult-es",
+      "label": "Formularios por los adultos",
+      "language": "Español",
+      "href": "/files/placeholder-adult-es.pdf",
+      "variant": "blue"
+    },
+    {
+      "id": "child-es",
+      "label": "Formularios por los Niños",
+      "language": "Español",
+      "href": "/files/placeholder-child-es.pdf",
+      "variant": "blue"
+    }
+  ],
+  "seo": {
+    "title": "Patient Forms | Amity Gentle Dental",
+    "description": "Download patient forms for Amity Gentle Dental in English and Spanish."
+  }
+}

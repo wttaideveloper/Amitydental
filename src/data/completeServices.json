@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "documentId": "complete-svc",
+  "title": "Our Complete Services",
+  "intro": "If you are experiencing pain, sleeping issues, oral health problems, or a desire to improve the look of your smile by replacing missing teeth, Dr. Clark can discuss which of these dental care services will work best for you:",
+  "columns": [
+    {
+      "id": "left",
+      "items": [
+        { "label": "Airway Treatment", "expandable": true, "slug": "airway-treatment" },
+        { "label": "Complete & Partial Dentures", "expandable": true, "slug": "complete-partial-dentures" },
+        { "label": "Dental Bridges", "expandable": true, "slug": "dental-bridges" },
+        { "label": "Dental Crowns", "expandable": false, "slug": null },
+        { "label": "Dental Implants", "expandable": true, "slug": "dental-implants" },
+        { "label": "Dental Prophylaxis", "expandable": true, "slug": "dental-prophylaxis" },
+        { "label": "Extractions (PRF procedure)", "expandable": false, "slug": null },
+        { "label": "Gum Disease Treatment", "expandable": false, "slug": null },
+        { "label": "Laser Gum Therapy", "expandable": true, "slug": "laser-gum-therapy" },
+        { "label": "Solea laser assisted restorations without anesthesia", "expandable": true, "slug": "solea-laser-restorations" }
+      ]
+    },
+    {
+      "id": "right",
+      "items": [
+        { "label": "Mercury-Free Fillings", "expandable": true, "slug": "mercury-free-fillings" },
+        { "label": "New Tom 3D Radiographic Diagnostics", "expandable": false, "slug": null },
+        { "label": "Ogram System for Oral Surgery", "expandable": true, "slug": "ogram-system-for-oral-surgery" },
+        { "label": "Orthodontics", "expandable": true, "slug": "orthodontics" },
+        { "label": "Ozone Therapy Innovative procedures", "expandable": true, "slug": "ozone-therapy" },
+        { "label": "PRF Therapy", "expandable": true, "slug": "prf-therapy" },
+        { "label": "Scaling and Root Planing", "expandable": false, "slug": null },
+        { "label": "Sleep Apnea Treatment", "expandable": true, "slug": "sleep-apnea-treatment" },
+        { "label": "Microscopic evaluation of oral flora", "expandable": true, "slug": "microscopic-evaluation-oral-flora" }
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Our Complete Services | Amity Gentle Dental",
+    "description": "Complete list of dental services at Amity Gentle Dental, Amity AR."
+  }
+}

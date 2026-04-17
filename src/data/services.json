@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "documentId": "svc-preventive",
+      "slug": "preventive-care",
+      "title": "Preventive Care",
+      "excerpt": "Exams, cleanings, and guidance to keep small issues from becoming big ones.",
+      "icon": "shield",
+      "body": [
+        "Routine visits are the foundation of a healthy smile. We take time to understand your history, screen for concerns early, and personalize hygiene recommendations you can use at home.",
+        "During preventive appointments, we focus on comfort, clarity, and education—so you always know what we’re seeing and why it matters."
+      ],
+      "seo": {
+        "title": "Preventive Dental Care | Amity Gentle Dental",
+        "description": "Professional cleanings, exams, and preventive guidance at Amity Gentle Dental."
+      }
+    },
+    {
+      "id": 2,
+      "documentId": "svc-restorative",
+      "slug": "restorative-dentistry",
+      "title": "Restorative Dentistry",
+      "excerpt": "Fillings, crowns, and solutions that rebuild strength and confidence.",
+      "icon": "sparkles",
+      "body": [
+        "When teeth are worn or damaged, restorative care helps you chew comfortably and smile confidently again. We prioritize conservative treatment paths and materials that look natural.",
+        "Your plan is explained in plain language—with options, timelines, and what to expect at each visit."
+      ],
+      "seo": {
+        "title": "Restorative Dentistry | Amity Gentle Dental",
+        "description": "Natural-looking restorative dental treatments in Amity, OR."
+      }
+    },
+    {
+      "id": 3,
+      "documentId": "svc-cosmetic",
+      "slug": "cosmetic-options",
+      "title": "Cosmetic Options",
+      "excerpt": "Whitening and aesthetic treatments aligned with your goals.",
+      "icon": "smile",
+      "body": [
+        "Cosmetic dentistry is about alignment between your health and how you feel in photos, conversations, and everyday moments.",
+        "We’ll discuss realistic outcomes, maintenance, and how cosmetic choices fit alongside long-term oral health."
+      ],
+      "seo": {
+        "title": "Cosmetic Dentistry | Amity Gentle Dental",
+        "description": "Discuss whitening and cosmetic dental options with our team."
+      }
+    },
+    {
+      "id": 4,
+      "documentId": "svc-emergency",
+      "slug": "emergency-visit",
+      "title": "Emergency Visits",
+      "excerpt": "Prompt evaluation when pain, swelling, or trauma can’t wait.",
+      "icon": "life-buoy",
+      "body": [
+        "Dental emergencies are stressful—we respond with calm triage, clear next steps, and treatment focused on relieving discomfort quickly.",
+        "If you’re unsure whether it’s urgent, call us. We’ll help you decide what to do next."
+      ],
+      "seo": {
+        "title": "Emergency Dental Care | Amity Gentle Dental",
+        "description": "Get guidance and urgent dental evaluation when you need it."
+      }
+    }
+  ]
+}

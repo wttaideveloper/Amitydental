@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "slug": "airway-treatment",
+      "title": "Airway Treatment",
+      "body": [
+        "Airway-focused care looks at how you breathe—nasal and oral pathways, sleep-related symptoms, and how they connect to oral structures.",
+        "Dr. Clark evaluates your history and exam findings to discuss options that support healthier breathing alongside your dental goals. Replace this copy with your finalized clinical descriptions and imagery from Strapi."
+      ]
+    },
+    {
+      "slug": "complete-partial-dentures",
+      "title": "Complete & Partial Dentures",
+      "body": [
+        "Dentures can replace some or all teeth when implants or bridges aren’t the right fit. We focus on comfort, fit, and natural appearance.",
+        "Mock detail page — connect to Strapi for photos, FAQs, and pricing context."
+      ]
+    },
+    {
+      "slug": "dental-bridges",
+      "title": "Dental Bridges",
+      "body": [
+        "Bridges replace missing teeth by anchoring to neighboring teeth or implants—restoring chewing and smile continuity.",
+        "Placeholder content for static build."
+      ]
+    },
+    {
+      "slug": "dental-implants",
+      "title": "Dental Implants",
+      "body": [
+        "Implants replace tooth roots and support crowns, bridges, or dentures with excellent stability.",
+        "Planning, healing timelines, and candidacy are discussed in person."
+      ]
+    },
+    {
+      "slug": "dental-prophylaxis",
+      "title": "Dental Prophylaxis",
+      "body": [
+        "Professional cleanings reduce inflammation and help maintain gum health between visits."
+      ]
+    },
+    {
+      "slug": "laser-gum-therapy",
+      "title": "Laser Gum Therapy",
+      "body": [
+        "Laser-assisted periodontal care can reduce pockets and support healing with less invasive techniques in select cases."
+      ]
+    },
+    {
+      "slug": "solea-laser-restorations",
+      "title": "Solea laser assisted restorations without anesthesia",
+      "body": [
+        "The Solea laser supports many restorations with little or no anesthesia—patients often leave without facial numbness.",
+        "See also our Technology page for more on Solea."
+      ]
+    },
+    {
+      "slug": "mercury-free-fillings",
+      "title": "Mercury-Free Fillings",
+      "body": [
+        "Since 1985 Dr. Clark discontinued placing amalgam and focuses on biocompatible restorative materials.",
+        "Learn more on our Mercury Fillings page."
+      ]
+    },
+    {
+      "slug": "ogram-system-for-oral-surgery",
+      "title": "Ogram System for Oral Surgery",
+      "body": [
+        "The Ögram System is a specialized extraction approach that uses less force and helps preserve bone when appropriate."
+      ]
+    },
+    {
+      "slug": "orthodontics",
+      "title": "Orthodontics",
+      "body": [
+        "Orthodontic options are discussed when alignment impacts health, function, or aesthetics."
+      ]
+    },
+    {
+      "slug": "ozone-therapy",
+      "title": "Ozone Therapy",
+      "body": [
+        "Medical-grade oxygen/ozone mixtures can help reduce pathogens in select treatments while supporting conservative care."
+      ]
+    },
+    {
+      "slug": "prf-therapy",
+      "title": "PRF Therapy",
+      "body": [
+        "Platelet-rich fibrin uses your own blood to support healing after extractions and other procedures."
+      ]
+    },
+    {
+      "slug": "sleep-apnea-treatment",
+      "title": "Sleep Apnea Treatment",
+      "body": [
+        "Airway and sleep concerns may overlap with oral appliances and other therapies—evaluation guides next steps."
+      ]
+    },
+    {
+      "slug": "microscopic-evaluation-oral-flora",
+      "title": "Microscopic evaluation of oral flora",
+      "body": [
+        "Microscopic evaluation can help characterize oral flora as part of a personalized hygiene and treatment plan."
+      ]
+    }
+  ]
+}

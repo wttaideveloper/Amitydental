@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "documentId": "team-clark",
+      "name": "Dr. Chester V. Clark Jr.",
+      "shortName": "Dr. Clark",
+      "role": "Dentist",
+      "pageTitle": "Meet Dr. Chester V. Clark Jr.",
+      "intro": [
+        "Dr. Chester V. Clark, Jr. has enjoyed helping people through dentistry since 1977. He loves to find easier and better ways to enhance smiles, preserve or replace teeth, and maintain healthy jaw joints all in the context of improving health and well-being. In 1985 he discontinued placing amalgam fillings and since then has pursued the developing protocols for safe mercury removal and healthier alternatives. He has been a member of the International Academy of Oral Medicine and Toxicology since its founding in the 1980’s and has attended more than 20 conferences. He holds memberships in the Academy of General Dentistry, Academy of Laser Dentistry, the International Academy of Biological Dentistry and Medicine, the American Academy of Cosmetic Dentistry, International Academy of Oral Medicine and Toxicology, and the American Academy of Ozonotherapy."
+      ],
+      "community": [
+        "Dr. Clark has been involved with his local community by serving as City of Amity Alderman for 18 years and as mayor for 16 years. He was a founding board member of the Southwest Arkansas Regional Intermodal Authority for 8 years and has served on various other foundations and school boards of directors."
+      ],
+      "organizationsAfter": "Dr. Chester V. Clark, Jr. has practiced dentistry since 1977 and is a member of professional organizations such as:",
+      "organizations": [
+        "Academy of General Dentistry",
+        "American Academy of Cosmetic Dentistry",
+        "International Academy of Biological Dentistry and Medicine",
+        "International Academy of Oral Medicine and Toxicology"
+      ],
+      "family": "Dr. Clark has been married to his wife, Harriet, since 1968. Harriet has had a career as a dietitian, teacher, and school administrator. They have four children, six grandchildren, and one great-grandchild.",
+      "interests": [
+        "Piloting a Cessna 182.",
+        "Gardening and construction.",
+        "Spending time with young people at the academy and Bible college he and his wife founded.",
+        "Operating his John Deere tractor and excavator."
+      ],
+      "imageAlt": "Dr. Chester V. Clark Jr. at Amity Gentle Dental with office logo and Biological Dentistry signage",
+      "seo": {
+        "title": "Meet Dr. Chester V. Clark Jr. | Amity Gentle Dental",
+        "description": "Meet Dr. Chester V. Clark Jr. — Amity Gentle Dental in Amity, AR."
+      }
+    }
+  ]
+}

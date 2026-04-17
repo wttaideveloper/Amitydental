@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "documentId": "site-amity-1",
+  "name": "Amity Gentle Dental",
+  "tagline": "We bring your smiles healthy",
+  "headlineAccent": "SMILES HEALTHY",
+  "practiceSubtitle": "A Christian dental practice",
+  "address": {
+    "line1": "439 E Thompson St",
+    "line2": "",
+    "city": "Amity",
+    "state": "AR",
+    "zip": "71921"
+  },
+  "phone": "(870) 342-5265",
+  "email": "care@amitygentledental.com",
+  "social": {
+    "facebook": "https://www.facebook.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "google": "https://www.google.com/maps"
+  },
+  "hours": [
+    { "day": "Monday – Thursday", "hours": "8:00 AM – 5:00 PM" },
+    { "day": "Friday", "hours": "8:00 AM – 4:00 PM" },
+    { "day": "Saturday – Sunday", "hours": "Closed" }
+  ],
+  "credit": {
+    "copyrightYear": 2025,
+    "designer": "Oakmont Media Group"
+  },
+  "seo": {
+    "title": "Amity Gentle Dental | Gentle Dental Care",
+    "description": "Amity Gentle Dental in Amity, AR — holistic, biocompatible dentistry with Dr. Chester V. Clark Jr. Procedures, Solea laser, airway care, and mercury-safe protocols."
+  }
+}

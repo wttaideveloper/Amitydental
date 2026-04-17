@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "quote": "Best dentist ever! Kind, knowledgeable people, they explained everything in depth",
+      "author": "Salena Fortner",
+      "context": "Patient"
+    },
+    {
+      "id": 2,
+      "quote": "Great people! Great work. Been a patient for 5 years now.",
+      "author": "Maryann Page",
+      "context": "Patient"
+    },
+    {
+      "id": 3,
+      "quote": "Such a Christian staff and atmosphere The bedside and caring treatment is the best ever. Dr Clark and staff stayed after hours to meet my needs. Wouldn't think of another Dentist. Several miles to drive but it's worth it.",
+      "author": "Wathenia McCauley",
+      "context": "Patient"
+    }
+  ],
+  "sectionEyebrow": "SUPPORTED AND LOVED",
+  "sectionTitle": "REAL PATIENT REVIEWS"
+}

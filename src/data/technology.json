@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "documentId": "tech-1",
+  "title": "Dr. Clark Uses the Latest Dental Technology",
+  "intro": "At Amity Gentle Dental, we embrace technological advancements that allow us to provide treatment that is safer, more beneficial, and more comfortable to our patients. Dr. Clark only adopts the use of tools that have been shown to make a substantial improvement in his quality of care. These advanced dental solutions help keep you safe and comfortable during procedures. They can also reduce recovery times.",
+  "items": [
+    {
+      "id": "new-tom",
+      "title": "New Tom 3D (Nu-Tom)",
+      "body": "This latest model of dental imaging was recently installed in our office. It allows us to evaluate nasal and oral breathing spaces, TMJ pathology, infections, or impacted teeth. It allows extra oral cavity detection for those who have sensitive gag reflexes."
+    },
+    {
+      "id": "ozone",
+      "title": "Ozone Treatment",
+      "body": "Our dentist uses medical-grade oxygen (95 percent oxygen, five percent ozone) which works as an excellent sterilizer to eliminate pathogens while leaving surrounding dental tissues undisturbed."
+    },
+    {
+      "id": "prf",
+      "title": "PRF (Platelet-Rich Fibrin)",
+      "body": "PLATELET-RICH FIBRIN is created using a small sample of the patient’s blood. When applied to extraction sites by our dentist, the growth factors expedite healing."
+    },
+    {
+      "id": "ogram",
+      "title": "The Ögram System",
+      "body": "Dr. Clark uses the Ögram System, a special method of tooth extraction used by qualified dentists that requires less force and minimizes bone loss. Maximum preservation of jawbone tissue helps ensure successful dental implant placement."
+    },
+    {
+      "id": "digital-scanner",
+      "title": "Digital Scanner",
+      "body": "Replaces many alginate impressions with amazing accuracy for partials, crowns, implants, and orthodontic models."
+    },
+    {
+      "id": "soft-laser",
+      "title": "Soft Tissue Laser",
+      "body": "By using a soft tissue laser instead of traditional dental tools, our dentist can provide treatments such as the reduction of periodontal pockets in greater comfort, with a minimized risk of infection and a shorter recovery time."
+    },
+    {
+      "id": "solea",
+      "title": "Solea Laser",
+      "body": "Combined hard and soft laser frequently requires little or no anesthesia. Patients are thrilled to leave the dental office with no numbness in their face. 70% of our restorations are now done with no discomfort or numbness in the face."
+    }
+  ],
+  "seo": {
+    "title": "Dental Technology | Amity Gentle Dental",
+    "description": "Advanced dental technology used at Amity Gentle Dental—including New Tom 3D, Solea laser, ozone, and more."
+  }
+}

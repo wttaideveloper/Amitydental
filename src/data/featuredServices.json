@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "documentId": "featured-svc",
+  "title": "Featured Dental Services",
+  "subtitle": "AT AMITY GENTLE DENTAL",
+  "intro": "These dental services performed by Dr. Clark are designed to not only result in healthier teeth and renewed smiles, but can benefit your overall health and boost your self-confidence:",
+  "items": [
+    {
+      "id": "mercury",
+      "title": "Mercury/Amalgam Filling Replacement",
+      "imageAlt": "Close-up of teeth with amalgam filling",
+      "href": "/mercury-fillings"
+    },
+    {
+      "id": "airway",
+      "title": "Airway / Sleep Apnea Treatment",
+      "imageAlt": "Couple in bed — airway and sleep context",
+      "href": "/services/sleep-apnea-treatment"
+    }
+  ],
+  "seo": {
+    "title": "Featured Services | Amity Gentle Dental",
+    "description": "Featured dental services at Amity Gentle Dental."
+  }
+}

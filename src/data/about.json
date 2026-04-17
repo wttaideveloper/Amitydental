@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "documentId": "about-page",
+  "title": "Our practice",
+  "lead": "Amity Gentle Dental exists to provide excellent dentistry with a gentle touch—rooted in integrity and respect for every person who walks through our door.",
+  "mission": [
+    "We believe oral health is part of whole health. That means honest recommendations, conservative treatment when possible, and clear communication you can trust.",
+    "As a Christian dental practice, we aim to serve our community with humility: treating people, not just teeth."
+  ],
+  "values": [
+    { "title": "Clarity", "text": "You should understand your options, costs, and what happens next—without pressure." },
+    { "title": "Comfort", "text": "We invest in a calm environment and thoughtful pacing, especially for anxious patients." },
+    { "title": "Continuity", "text": "We build long-term relationships so care stays consistent as your needs change." }
+  ],
+  "seo": {
+    "title": "About Us | Amity Gentle Dental",
+    "description": "Learn about Amity Gentle Dental—our mission, values, and commitment to gentle care."
+  }
+}

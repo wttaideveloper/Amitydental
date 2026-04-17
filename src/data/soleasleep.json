@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "documentId": "soleasleep-page",
+  "heroTitle": "Soleasleep",
+  "heroSubtitle": "Comfort-forward options for patients who need extra help relaxing during treatment.",
+  "sections": [
+    {
+      "title": "What is Solea Sleep?",
+      "body": [
+        "Soleasleep is presented here as a dedicated pathway for patients who want a calmer experience—especially when longer appointments, sensitivity, or anxiety are part of the picture.",
+        "Your suitability depends on health history and the procedure planned. We’ll review this together with the same clarity we bring to every treatment conversation."
+      ]
+    },
+    {
+      "title": "How we approach comfort",
+      "body": [
+        "We start with communication: what you’ve experienced before, what worries you, and what “comfortable” looks like for you.",
+        "When appropriate, we discuss options, monitoring, and what to expect before, during, and after your visit—so you’re never guessing."
+      ]
+    },
+    {
+      "title": "Next steps",
+      "body": [
+        "If you’re interested in Solea Sleep—or you’re not sure what level of support you need—book a consultation. Bring your questions; we’ll map a plan that fits."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is everyone a candidate?",
+      "a": "Not always. Medical history, medications, and the type of procedure matter. We’ll screen carefully and discuss alternatives if needed."
+    },
+    {
+      "q": "Will I need a ride home?",
+      "a": "For many comfort protocols, yes—plan for an adult escort if sedation or similar options are used. We’ll give you written instructions."
+    },
+    {
+      "q": "Can I combine this with other treatment?",
+      "a": "Often, yes—especially when bundling care reduces visits. We’ll prioritize safety and pacing."
+    }
+  ],
+  "seo": {
+    "title": "Soleasleep | Amity Gentle Dental",
+    "description": "Learn about Solea Sleep and comfort-forward care at Amity Gentle Dental."
+  }
+}

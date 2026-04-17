@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "documentId": "approach-1",
+  "sectionTitle": "Our Unique Approach to Dental Care",
+  "heroQuote": "Best Dentist Ever!",
+  "heroTestimonials": [
+    {
+      "quote": "Best dentist ever! Kind, knowledgeable people, they explained everything in depth",
+      "author": "Salena Fortner",
+      "role": "Patient"
+    },
+    {
+      "quote": "Great people! Great work. Been a patient for 5 years now.",
+      "author": "Maryann Page",
+      "role": "Patient"
+    }
+  ],
+  "heroInstruction": "Handwritten: place these testimonials in a dedicated reviews section—not on the hero image.",
+  "columns": [
+    {
+      "id": "smile",
+      "title": "It’s Not Just about Your Smile!",
+      "paragraphs": [
+        "Holistic dentistry, biological dentistry, biocompatible dentistry, and mercury-safe dentistry are all terms that have been used to describe alternative dental care.",
+        "The mouth is an integral part of the body!"
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Improved Health and Safer Dentistry",
+      "paragraphs": [
+        "Your oral health can influence overall wellness—including risks tied to heart disease, stroke, and other systemic conditions. Dr. Chester Clark focuses on identifying hazards such as mercury, not fluoride, and radiation, then reducing risks while supporting your long-term health."
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Our Unique Approach | Amity Gentle Dental",
+    "description": "Our unique approach to dental care in Amity, AR—healthier smiles and safer dentistry."
+  }
+}

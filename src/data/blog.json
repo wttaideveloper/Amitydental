@@ -1,0 +1,69 @@
+{
+  "page": {
+    "eyebrow": "Blog",
+    "title": "Ideas for healthier habits",
+    "intro": "Short reads you can use between visits—clear, practical guidance on oral health, comfort, and family care from Amity Gentle Dental.",
+    "sectionTitle": "Latest articles",
+    "sectionDescription": "Tap a story to read the full post.",
+    "seo": {
+      "title": "Blog | Amity Gentle Dental",
+      "description": "Helpful articles on oral health, anxiety, and family dentistry from Amity Gentle Dental."
+    }
+  },
+  "data": [
+    {
+      "id": 1,
+      "documentId": "post-brushing",
+      "slug": "brushing-basics-that-actually-stick",
+      "title": "Brushing Basics That Actually Stick",
+      "excerpt": "Simple habits that protect enamel and gums—without turning your routine into a chore.",
+      "publishedAt": "2026-03-12",
+      "coverImageAlt": "Toothbrush and timer on a clean bathroom counter",
+      "body": [
+        "Consistency beats intensity. Two minutes, twice a day, with a soft brush and fluoride toothpaste is the baseline most people need.",
+        "Angle the bristles toward the gumline and use gentle pressure—scrubbing harder doesn’t clean better; it can wear enamel and irritate gums.",
+        "If you’re rebuilding a habit, pair brushing with something you already do daily (like brewing coffee or starting your evening wind-down)."
+      ],
+      "seo": {
+        "title": "Brushing Basics | Amity Gentle Dental Blog",
+        "description": "Practical brushing tips from Amity Gentle Dental."
+      }
+    },
+    {
+      "id": 2,
+      "documentId": "post-anxiety",
+      "slug": "when-dental-anxiety-shows-up",
+      "title": "When Dental Anxiety Shows Up",
+      "excerpt": "What helps before you even sit in the chair—and how we support nervous patients.",
+      "publishedAt": "2026-02-03",
+      "coverImageAlt": "Calm waiting area with soft lighting",
+      "body": [
+        "Anxiety is common, and it’s not something you should have to “just get over.” Small signals—like noise, past experiences, or uncertainty—can make visits feel bigger than they are.",
+        "We slow down, explain what to expect, and build breaks into longer appointments when needed. If Solea Sleep or other comfort options are appropriate, we’ll discuss them clearly.",
+        "If you have specific triggers, tell us when you book. That helps us prepare the right environment from the first minute."
+      ],
+      "seo": {
+        "title": "Dental Anxiety Tips | Amity Gentle Dental Blog",
+        "description": "Supportive strategies for anxious dental patients."
+      }
+    },
+    {
+      "id": 3,
+      "documentId": "post-kids",
+      "slug": "first-visits-for-kids-what-to-expect",
+      "title": "First Visits for Kids: What to Expect",
+      "excerpt": "A warm introduction to the dental home—focused on trust, not perfection.",
+      "publishedAt": "2026-01-18",
+      "coverImageAlt": "Child-friendly dental office artwork",
+      "body": [
+        "Early visits are as much about comfort as cleaning. We want kids to learn that dental care is a normal, friendly part of life.",
+        "Parents play a huge role: positive language and calm energy go a long way. We’ll guide you on age-appropriate hygiene at home, too.",
+        "If your child is nervous, we’ll adjust pacing. Small wins build confidence for the next visit."
+      ],
+      "seo": {
+        "title": "Kids’ First Dental Visits | Amity Gentle Dental Blog",
+        "description": "What families can expect during pediatric dental introductions."
+      }
+    }
+  ]
+}
