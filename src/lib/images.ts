@@ -12,6 +12,10 @@ function u(photoPath: string, w: number, h?: number) {
 /** Local assets (Vite serves from /public) */
 export const local = {
   drClark: '/images/dr-clark.jpg',
+  /** Exterior building + monument sign (provided photo) */
+  officeBuildingHero: '/images/office-building-hero.png',
+  /** Reception area (provided interior photo) */
+  officeReception: '/images/office-reception.png',
   drClarkOfficeSignage: '/images/dr-clark-office-signage.png',
   /** Home featured cards (generated) — amalgam + sleep airway */
   featMercuryAmalgam: '/images/feat-mercury-amalgam.png',
@@ -39,7 +43,9 @@ export const pageBanners = {
 } as const
 
 export const images = {
-  hero: local.drClarkOfficeSignage,
+  hero: local.officeBuildingHero,
+
+  homeReception: local.officeReception,
 
   homePersonalMessage: local.drClark,
 

@@ -9,18 +9,8 @@ import { Container } from './Container'
 import { Logo } from './Logo'
 
 const footerExplore = [
-  { label: 'About', to: '/about' },
-  { label: 'Meet Dr. Clark', to: '/meet-mr-clark' },
-  { label: 'Our Approach', to: '/our-approach' },
-  { label: 'Procedure', to: '/services' },
-  { label: 'Technology', to: '/technology' },
-  { label: 'Mercury Fillings', to: '/mercury-fillings' },
-  { label: 'Soleasleep', to: '/soleasleep' },
-  { label: 'Patient Forms', to: '/patient-forms' },
-  { label: 'Amity Office', to: '/office' },
-  { label: 'Blog', to: '/blog' },
+  { label: 'Appointments', to: '/appointments' },
   { label: 'Contact Us', to: '/contact' },
-  { label: 'Appointment', to: '/appointments' },
 ]
 
 const iconBtnOnBlue =

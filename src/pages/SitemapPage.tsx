@@ -4,12 +4,7 @@ import { PageBanner } from '../components/ui/PageBanner'
 import { pageBanners } from '../lib/images'
 import { navigationData } from '../data'
 
-const extra = [
-  { to: '/mercury-fillings', label: 'Mercury fillings' },
-  { to: '/patient-forms', label: 'Patient forms' },
-  { to: '/office', label: 'Amity office' },
-  { to: '/privacy-policy', label: 'Privacy policy' },
-]
+const extra = [{ to: '/privacy-policy', label: 'Privacy policy' }]
 
 export function SitemapPage() {
   return (

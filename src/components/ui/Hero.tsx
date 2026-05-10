@@ -5,7 +5,8 @@ import { images } from '../../lib/images'
 
 type HeroProps = {
   eyebrow?: string
-  accent: string
+  /** Optional display line above the title (omit to lead with the H1). */
+  accent?: string
   title: string
   subtitle?: string
   children?: ReactNode
@@ -51,12 +52,14 @@ export function Hero({
             className={`max-w-xl ${align === 'center' ? 'mx-auto text-center lg:mx-0 lg:text-left' : ''}`}
           >
             {eyebrow ? <p className="text-eyebrow">{eyebrow}</p> : null}
-            <p
-              className={`mt-3 font-display text-3xl font-semibold tracking-tight text-brand-700 sm:text-4xl ${textAlign}`}
-            >
-              {accent}
-            </p>
-            <h1 className={`text-h1 mt-3 ${textAlign}`}>{title}</h1>
+            {accent ? (
+              <p
+                className={`mt-3 font-display text-3xl font-semibold tracking-tight text-brand-700 sm:text-4xl ${textAlign}`}
+              >
+                {accent}
+              </p>
+            ) : null}
+            <h1 className={`text-h1 ${accent ? 'mt-3' : eyebrow ? 'mt-5' : 'mt-0'} ${textAlign}`}>{title}</h1>
             {subtitle ? (
               <p className={`text-body mt-5 max-w-xl ${align === 'center' ? 'mx-auto lg:mx-0' : ''}`}>
                 {subtitle}
